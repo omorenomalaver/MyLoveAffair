@@ -1,0 +1,1 @@
+# MyLoveAffairis a android application where I used a internal database, navigating between diferents screens and creating xml controls, to access into the app add 666 into the calculator interface :)
